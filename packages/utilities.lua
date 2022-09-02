@@ -36,7 +36,7 @@ end
 
 return Util
 --[[local function load(package)
-    return loadstring(game:HttpGet('https://raw.githubusercontent.com/TanakaProgrammer/ZenX-Modded/tree/main/packages' .. tostring(package) .. '.lua'))()
+    return loadstring(game:HttpGet('https://raw.githubusercontent.com/TanakaProgrammer/ZenX-Modded/main/packages' .. tostring(package) .. '.lua'))()
 end
 
 --// load packages \\--
