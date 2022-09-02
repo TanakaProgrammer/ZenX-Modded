@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/laderite/zenx/main/scripts"
+local url = "https://raw.githubusercontent.com/TanakaProgrammer/ZenX-Modded/main/scripts"
 
 local games = {
     [5023820864] = "Trade Tower";
@@ -10,7 +10,7 @@ local games = {
     [8069117419] = "Demon Soul";
     [7180042682] = "Military Tycoon";
     [7800644383] = "Untitled Hood GUI";
-    [9183932460] = "Untitled Hood New GUI";
+    [9807416796] = "[STURDY! 🔥] De Hood";
 }
 
 for i,v in next, games do
